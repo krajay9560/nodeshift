@@ -1,7 +1,7 @@
 {
   "name": "nodeshift",
   "version": "11.0.0",
-  "description": "Plugin for running openshift deployments"
+  "description": "Plugin for running openshift deployments",
   "bin": {
     "nodeshift": "./bin/nodeshift"
   },
@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/nodeshift/nodeshift/issues"
   },
-  "homepage": "https://github.com/nodeshift/nodeshift#readme"
+  "homepage": "https://github.com/nodeshift/nodeshift#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "dockerode": "~3.3.4",
